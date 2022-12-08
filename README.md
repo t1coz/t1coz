@@ -1,4 +1,5 @@
 ![aa](https://user-images.githubusercontent.com/66951820/206536190-10f95d8c-def6-479a-bce0-cb315f1769eb.gif)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=t1coz.visitors-badge&left_color=green&right_color=red)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
