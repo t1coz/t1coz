@@ -4,7 +4,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=t1coz.visitors-badge&left_color=black&right_color=red)
 ![Profile views](https://gpvc.arturio.dev/t1coz)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1coz&show_icons=true&theme=dark)
