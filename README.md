@@ -6,4 +6,4 @@
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=t1coz.visitors-badge&left_color=green&right_color=red)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1coz&show_icons=true&theme=dark)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4xtlj3k4q6ongzr62qzj7xhwf&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1116&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4xtlj3k4q6ongzr62qzj7xhwf&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4xtlj3k4q6ongzr62qzj7xhwf&redirect=true)
