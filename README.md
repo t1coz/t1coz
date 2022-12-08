@@ -5,7 +5,7 @@
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=t1coz.visitors-badge&left_color=black&right_color=red)
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Profile views](https://gpvc.arturio.dev/[t1coz])
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1coz&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
