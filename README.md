@@ -9,4 +9,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1coz&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4xtlj3k4q6ongzr62qzj7xhwf&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=79fe96&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4xtlj3k4q6ongzr62qzj7xhwf&redirect=true)
+
 <img src="https://readme-jokes.vercel.app/api?theme=watermelon&hideBorder&bgColor=black" alt="Jokes Card" />
