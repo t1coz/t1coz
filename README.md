@@ -1,4 +1,5 @@
-Hi there 👋
+![aa](https://user-images.githubusercontent.com/66951820/206536190-10f95d8c-def6-479a-bce0-cb315f1769eb.gif)
+
 
 <!--
 **t1coz/t1coz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Colorful Blobs Modern Artisan Marketing  Retail X-Frame Banner](https://user-images.githubusercontent.com/66951820/206532685-520ac40c-49dd-4b53-9c69-312028ab5423.gif)
+
