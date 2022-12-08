@@ -4,6 +4,7 @@
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/t1coz)
 [![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
+[![Profile views](https://gpvc.arturio.dev/t1coz)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1coz&show_icons=true&theme=dark)](https://github.com/t1coz)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4xtlj3k4q6ongzr62qzj7xhwf&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=79fe96&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=4xtlj3k4q6ongzr62qzj7xhwf&redirect=true)
