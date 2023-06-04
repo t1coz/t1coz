@@ -1,4 +1,3 @@
-[![Profile views](https://gpvc.arturio.dev/t1coz)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1coz&show_icons=true&theme=radical)](https://github.com/t1coz)
 
