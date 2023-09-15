@@ -6,4 +6,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1coz&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1coz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1coz&layout=donut&theme=tokyonight)](https://github.com/t1coz)
