@@ -1,7 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=t1coz&style=flat-square&color=blue" alt=""/>
 
-[![Profile views](https://gpvc.arturio.dev/t1coz)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1coz&show_icons=true&theme=radical)](https://github.com/t1coz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1coz&theme=dark&layout=compact)](https://github.com/t1coz)
