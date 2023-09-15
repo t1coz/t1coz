@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=t1coz&style=flat-square&color=blue" alt=""/>
 
 [![Profile views](https://gpvc.arturio.dev/t1coz)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
